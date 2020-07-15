@@ -1,4 +1,5 @@
 
+此部分为人脸识别部分
 安装模块 [opencv-python]，[freetype]，[PyYAML]。
 python -m pip install opencv-python freetype-py PyYAML
 下载SDK2.2
